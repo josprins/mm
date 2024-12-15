@@ -1,9 +1,9 @@
 import { View, StyleSheet, Text } from "react-native";
 
-export default function HomeScreen() {
+export default function SettingsScreen() {
   return (
     <View>
-      <Text>TEST</Text>
+      <Text>Settings</Text>
     </View>
   );
 }
